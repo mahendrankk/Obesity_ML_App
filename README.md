@@ -78,7 +78,7 @@ We trained all 6 models on the same data using an **80/20 train-test split** (st
 
 ---
 
-## d. Observations
+### Observations
 
 | ML Model Name | Observation about model performance |
 | :------------- | :---------------------------------- |
@@ -94,7 +94,7 @@ We trained all 6 models on the same data using an **80/20 train-test split** (st
 ## Project Structure
 
 ```
-project-folder/
+Obesity_ML_App/
 │── app.py                          # Streamlit web application
 │── requirements.txt                # Python dependencies
 │── README.md                       # This file
@@ -126,3 +126,7 @@ streamlit run app.py
 ## GitHub Repository
 
 🔗 **Repository:** [Obesity_ML_App](https://github.com/mahendrankk/Obesity_ML_App)
+
+## BITS Virtual Lab screenshot
+<img width="1917" height="1015" alt="2025aa05777_ML-Assignment2-screenshot" src="https://github.com/user-attachments/assets/5fbcead7-5490-4637-b776-db50295eede8" />
+
