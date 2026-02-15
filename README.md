@@ -121,8 +121,8 @@ streamlit run app.py
 
 ## Live App
 
-🔗 **Streamlit App:** [Add deployed link here]
+🔗 **Streamlit App:** [Streamlit - Obesity Level Classification](https://obesitymlapp-oxtc4gyzg5hlcsgvv4o3jf.streamlit.app/)
 
 ## GitHub Repository
 
-🔗 **Repository:** [Add GitHub link here]
+🔗 **Repository:** [Obesity_ML_App](https://github.com/mahendrankk/Obesity_ML_App)
